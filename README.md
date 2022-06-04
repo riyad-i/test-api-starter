@@ -12,7 +12,7 @@ DATABASE_URL=mongodb+srv://dbuser:dfsasdt3qfvs@cluster0.scylw.mongodb.net/gaphyT
 
 ## Getting Started
 
-1. Run `node db/seed.js` to populate your database with seed data.
+1. Run `node db/seed.js` to populate your database with seed data if you want.
 1. Run `nodemon index.js` to start your development server. You should see the following:
 
 ```
